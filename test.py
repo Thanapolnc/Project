@@ -1,3 +1,4 @@
 '''test github'''
 a = "Hello World"
-print(a)
+for i in a:
+    print(i)
