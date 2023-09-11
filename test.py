@@ -5,3 +5,4 @@ toto = 'toto love calculus'
 for i in a:
     print(i)
 game = 'rov'
+#แตก1สวยพี่สวย
